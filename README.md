@@ -4,6 +4,11 @@ Small patch to enable [Enhanced Storage](https://steamcommunity.com/sharedfiles/
 and increase slot count of most [Galaxy in Conflict](https://steamcommunity.com/workshop/filedetails/?id=2754886445)
 storage containers.
 
+__NOTE:__ make a backup of your player and universe folders before trying this, installing the mod should have no
+problems,
+but always backup just in case. Uninstalling will have the same consequences as uninstalling any other Enhanced Storage
+patch, or uninstalling Enhanced Storage itself.
+
 # Requires
 
 - [Galaxy in Conflict](https://steamcommunity.com/workshop/filedetails/?id=2754886445)
@@ -21,6 +26,13 @@ storage containers.
 
 __Note:__ liquid containers (gas can, gas drum, IBC tanks), component cases, and some medical containers aren't
 supported yet. Does not include corpses.
+
+# Acknowledgements
+
+- [Tengu_Civitas](https://steamcommunity.com/id/subject-1096) and all the contributors of GiC, without which there would
+  be no point in this mod
+- [Neo](https://steamcommunity.com/profiles/76561198041891082) for Enhanced Storage, source of the JSON snippets needed
+  for the patch
 
 # Changelog (possible GiC spoilers)
 
