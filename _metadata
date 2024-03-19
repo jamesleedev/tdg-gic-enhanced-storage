@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "author": "jamesl.dev",
+  "description": "Enhanced Storage patch for GiC containers.",
+  "name": "tdg-gic-enhanced-storage",
+  "friendlyName": "[GiC] Enhanced Storage Patch",
+  "priority": 10000,
+  "requires": []
+}
