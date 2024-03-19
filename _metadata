@@ -1,9 +1,11 @@
 {
-  "version": "1.0.0",
-  "author": "jamesl.dev",
-  "description": "Enhanced Storage patch for GiC containers.",
-  "name": "tdg-gic-enhanced-storage",
-  "friendlyName": "[GiC] Enhanced Storage Patch",
-  "priority": 10000,
-  "requires": []
+  "author" : "Thedoorguy",
+  "description" : "[h1]Thedoorguy's GiC Enhanced Storage Patch[/h1]\nSmall patch to enable Enhanced Storage functionality and increase slot count of most Galaxy in Conflict storage containers.\n\nMade this because I wanted a bigger ship locker for the 4 playable races.\n\n[h1]Requires[/h1]\n[list]\n[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2754886445]Galaxy in Conflict[/url]\n[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=731220462]Enhanced Storage[/url]\n[/list]\n\n[h1]Recommended[/h1]\n[list]\n[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3176034032]Galaxy in Conflict - Spawnable Items Pack Patch[/url] (easier way of obtaining furniture for builds until there are furniture stores)\n[/list]\n\n[h1]Features[/h1]\n[list]\n[*]Increases ship locker slot count to same size (100) as other races' if you're using Enhanced Storage already\n[*]Increases GiC furniture storage\n[/list]\n\n[b]Note:[/b] liquid containers (gas can, gas drum, IBC tanks), component cases, and some medical containers aren't supported yet. Does not include corpses.",
+  "friendlyName" : "[GiC] Enhanced Storage Patch",
+  "link" : "steam://url/CommunityFilePage/3192167067",
+  "name" : "tdg-gic-enhanced-storage",
+  "steamContentId" : "3192167067",
+  "tags" : "Miscellaneous|Furniture and Objects|Mechanics",
+  "version" : "1.0.1",
+  "priority": 10000
 }
