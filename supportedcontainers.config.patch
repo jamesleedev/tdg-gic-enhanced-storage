@@ -1,0 +1,337 @@
+[
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_blackjack_humanshiplocker",
+    "value": "/objects/BLACKJACK/gic_blackjack_humanshiplocker/gic_blackjack_humanshiplocker.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_blackjack_humanstoragelocker",
+    "value": "/objects/BLACKJACK/gic_blackjack_humanstoragelocker/gic_blackjack_humanstoragelocker.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_redstar_cargocontainer",
+    "value": "/objects/CARGO_CONTAINER/gic_redstar_cargocontainer/gic_redstar_cargocontainer.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_modernbookcase",
+    "value": "/objects/CIVILIAN/gic_modernbookcase/gic_modernbookcase.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_officefile1",
+    "value": "/objects/CIVILIAN/gic_officefile1/gic_officefile1.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_officefile2",
+    "value": "/objects/CIVILIAN/gic_officefile2/gic_officefile2.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_bookcase",
+    "value": "/objects/Crusade_World/gic_glitch_bookcase/gic_glitch_bookcase.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_bookcaseabandoned",
+    "value": "/objects/Crusade_World/gic_glitch_bookcaseabandoned/gic_glitch_bookcaseabandoned.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_displaycabinet",
+    "value": "/objects/Crusade_World/gic_glitch_displaycabinet/gic_glitch_displaycabinet.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_displaycabinetabandoned",
+    "value": "/objects/Crusade_World/gic_glitch_displaycabinetabandoned/gic_glitch_displaycabinetabandoned.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_lockers",
+    "value": "/objects/Crusade_World/gic_glitch_lockers/gic_glitch_lockers.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_lockersabandoned",
+    "value": "/objects/Crusade_World/gic_glitch_lockersabandoned/gic_glitch_lockersabandoned.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_metalshelving",
+    "value": "/objects/Crusade_World/gic_glitch_metalshelving/gic_glitch_metalshelving.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_metalshelvingabandoned",
+    "value": "/objects/Crusade_World/gic_glitch_metalshelvingabandoned/gic_glitch_metalshelvingabandoned.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_ornatecabinet",
+    "value": "/objects/Crusade_World/gic_glitch_ornatecabinet/gic_glitch_ornatecabinet.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_ornatecabinetabandoned",
+    "value": "/objects/Crusade_World/gic_glitch_ornatecabinetabandoned/gic_glitch_ornatecabinetabandoned.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_ornatedesk",
+    "value": "/objects/Crusade_World/gic_glitch_ornatedesk/gic_glitch_ornatedesk.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_ornatedeskabandoned",
+    "value": "/objects/Crusade_World/gic_glitch_ornatedeskabandoned/gic_glitch_ornatedeskabandoned.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_safe",
+    "value": "/objects/Crusade_World/gic_glitch_safe/gic_glitch_safe.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_simplecabinet",
+    "value": "/objects/Crusade_World/gic_glitch_simplecabinet/gic_glitch_simplecabinet.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_storeshelving",
+    "value": "/objects/Crusade_World/gic_glitch_storeshelving/gic_glitch_storeshelving.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_woodchest",
+    "value": "/objects/Crusade_World/gic_glitch_woodchest/gic_glitch_woodchest.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_freethinker_armytent",
+    "value": "/objects/Crusade_World/WAR_CAMP/gic_freethinker_armytent/gic_freethinker_armytent.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_largewartent_redstripes_open",
+    "value": "/objects/Crusade_World/WAR_CAMP/gic_largewartent_redstripes_open/gic_largewartent_redstripes_open.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_wartent_redstripes_open",
+    "value": "/objects/Crusade_World/WAR_CAMP/gic_wartent/gic_wartent_redstripes_open.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_spacestationfridge",
+    "value": "/objects/SPACE/gic_spacestationfridge/gic_spacestationfridge.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_spacestationwallcabinet1",
+    "value": "/objects/SPACE/gic_spacestationwallcabinet1/gic_spacestationwallcabinet1.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_spacestationwallcabinet2",
+    "value": "/objects/SPACE/gic_spacestationwallcabinet2/gic_spacestationwallcabinet2.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_aerialbombcache1",
+    "value": "/objects/STANDARD/gic_aerialbombcache1/gic_aerialbombcache1.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_aerialbombcache2",
+    "value": "/objects/STANDARD/gic_aerialbombcache2/gic_aerialbombcache2.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_ammunitioncratemedium01",
+    "value": "/objects/STANDARD/gic_ammunitioncratemedium01/gic_ammunitioncratemedium01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_ammunitioncratemedium02",
+    "value": "/objects/STANDARD/gic_ammunitioncratemedium02/gic_ammunitioncratemedium02.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_ammunitioncratemedium03",
+    "value": "/objects/STANDARD/gic_ammunitioncratemedium03/gic_ammunitioncratemedium03.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_ammunitioncratemedium04",
+    "value": "/objects/STANDARD/gic_ammunitioncratemedium04/gic_ammunitioncratemedium04.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_ammunitioncratesmall01",
+    "value": "/objects/STANDARD/gic_ammunitioncratesmall01/gic_ammunitioncratesmall01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_bigcargocrate01",
+    "value": "/objects/STANDARD/gic_bigcargocrate01/gic_bigcargocrate01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_bigcargocrate02",
+    "value": "/objects/STANDARD/gic_bigcargocrate02/gic_bigcargocrate02.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_bigmedkit01",
+    "value": "/objects/STANDARD/gic_bigmedkit01/gic_bigmedkit01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_bigmedkit02",
+    "value": "/objects/STANDARD/gic_bigmedkit02/gic_bigmedkit02.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_cargoluggage01",
+    "value": "/objects/STANDARD/gic_cargoluggage01/gic_cargoluggage01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_cargoluggage02",
+    "value": "/objects/STANDARD/gic_cargoluggage02/gic_cargoluggage02.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_cargoluggage03",
+    "value": "/objects/STANDARD/gic_cargoluggage03/gic_cargoluggage03.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_cargoluggage04",
+    "value": "/objects/STANDARD/gic_cargoluggage04/gic_cargoluggage04.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_cargoluggage05",
+    "value": "/objects/STANDARD/gic_cargoluggage05/gic_cargoluggage05.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_cargoluggage06",
+    "value": "/objects/STANDARD/gic_cargoluggage06/gic_cargoluggage06.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_heavyartillerycache1",
+    "value": "/objects/STANDARD/gic_heavyartillerycache1/gic_heavyartillerycache1.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_heavyartillerycache2",
+    "value": "/objects/STANDARD/gic_heavyartillerycache2/gic_heavyartillerycache2.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_medicalcrate",
+    "value": "/objects/STANDARD/gic_medicalcrate/gic_medicalcrate.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_proweaponcratelarge",
+    "value": "/objects/STANDARD/gic_proweaponcratelarge/gic_proweaponcratelarge.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_proweaponcratemedium",
+    "value": "/objects/STANDARD/gic_proweaponcratemedium/gic_proweaponcratemedium.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_smallcargocrate01",
+    "value": "/objects/STANDARD/gic_smallcargocrate01/gic_smallcargocrate01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_smallcargocrate02",
+    "value": "/objects/STANDARD/gic_smallcargocrate02/gic_smallcargocrate02.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_usweaponscratelarge01",
+    "value": "/objects/STANDARD/gic_usweaponscratelarge01/gic_usweaponcratelarge01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_usweaponscratelarge02",
+    "value": "/objects/STANDARD/gic_usweaponscratelarge02/gic_usweaponcratelarge02.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_usweaponscratemedium01",
+    "value": "/objects/STANDARD/gic_usweaponscratemedium01/gic_usweaponcratemedium01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_usweaponscratemedium02",
+    "value": "/objects/STANDARD/gic_usweaponscratemedium02/gic_usweaponcratemedium02.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_wallmedkit01",
+    "value": "/objects/STANDARD/gic_wallmedkit01/gic_wallmedkit01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_wallmedkit02",
+    "value": "/objects/STANDARD/gic_wallmedkit02/gic_wallmedkit02.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_weaponcratelarge01",
+    "value": "/objects/STANDARD/gic_weaponcratelarge01/gic_weaponcratelarge01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_weaponcratelarge02",
+    "value": "/objects/STANDARD/gic_weaponcratelarge02/gic_weaponcratelarge02.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_weaponcratelargemodern",
+    "value": "/objects/STANDARD/gic_weaponcratelargemodern/gic_weaponcratelargemodern.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_weaponcratelongmodern",
+    "value": "/objects/STANDARD/gic_weaponcratelongmodern/gic_weaponcratelongmodern.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_glitch_storeshelving",
+    "value": "/objects/Crusade_World/gic_glitch_storeshelving/gic_glitch_storeshelving.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_weaponcratemedium01",
+    "value": "/objects/STANDARD/gic_weaponcratemedium01/gic_weaponcratemedium01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_weaponcratemedium02",
+    "value": "/objects/STANDARD/gic_weaponcratemedium02/gic_weaponcratemedium02.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_weaponcratemediummodern01",
+    "value": "/objects/STANDARD/gic_weaponcratemediummodern01/gic_weaponcratemediummodern01.object"
+  },
+  {
+    "op": "add",
+    "path": "/supportedContainers/gic_weaponcratemediummodern02",
+    "value": "/objects/STANDARD/gic_weaponcratemediummodern02/gic_weaponcratemediummodern02.object"
+  }
+]
