@@ -36,11 +36,15 @@ supported yet. Does not include corpses.
 
 # Changelog (possible GiC spoilers)
 
+## v1.1.0
+
+Add supportedcontainers patch for use with Storage Manipulator at Outpost to change slot count.
+
+## v1.0.0
+
 Key:
 
 - Item [__*SIP Name*__] (beforeCount -> AfterCount)
-
-## v1.0.0
 
 ### Ship
 
