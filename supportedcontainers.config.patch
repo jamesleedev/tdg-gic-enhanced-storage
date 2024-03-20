@@ -261,23 +261,23 @@
   },
   {
     "op": "add",
-    "path": "/supportedContainers/gic_usweaponscratelarge01",
-    "value": "/objects/STANDARD/gic_usweaponscratelarge01/gic_usweaponcratelarge01.object"
+    "path": "/supportedContainers/gic_usweaponcratelarge01",
+    "value": "/objects/STANDARD/gic_usweaponcratelarge01/gic_usweaponcratelarge01.object"
   },
   {
     "op": "add",
-    "path": "/supportedContainers/gic_usweaponscratelarge02",
-    "value": "/objects/STANDARD/gic_usweaponscratelarge02/gic_usweaponcratelarge02.object"
+    "path": "/supportedContainers/gic_usweaponcratelarge02",
+    "value": "/objects/STANDARD/gic_usweaponcratelarge02/gic_usweaponcratelarge02.object"
   },
   {
     "op": "add",
-    "path": "/supportedContainers/gic_usweaponscratemedium01",
-    "value": "/objects/STANDARD/gic_usweaponscratemedium01/gic_usweaponcratemedium01.object"
+    "path": "/supportedContainers/gic_usweaponcratemedium01",
+    "value": "/objects/STANDARD/gic_usweaponcratemedium01/gic_usweaponcratemedium01.object"
   },
   {
     "op": "add",
-    "path": "/supportedContainers/gic_usweaponscratemedium02",
-    "value": "/objects/STANDARD/gic_usweaponscratemedium02/gic_usweaponcratemedium02.object"
+    "path": "/supportedContainers/gic_usweaponcratemedium02",
+    "value": "/objects/STANDARD/gic_usweaponcratemedium02/gic_usweaponcratemedium02.object"
   },
   {
     "op": "add",
